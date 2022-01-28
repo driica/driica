@@ -1,4 +1,4 @@
-### Olá, Sou a Adriana Beatriz ✨
+### Olá, Sou Adriana Beatriz ✨
 
 💻 Sou estudante de Engenharia de Software.
 
