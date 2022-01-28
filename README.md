@@ -3,7 +3,7 @@
 💻 Sou estudante de Engenharia de Software.
 
 
-### Tecnologias que uso e estou estudando
+### Tecnologias que uso e que estou estudando
 
 <div style="display: incline_block"></br>
  <img align="" alt="" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
