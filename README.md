@@ -11,7 +11,7 @@
  <img align="" alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
  <img align="" alt="" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
  <img align="" alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> </br>
- <img align="right" alt="Dri-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/923619727971065896/936719762405355591/IMG-20220128-WA0035.jpg"
+ <img align="right" alt="Dri-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/923619727971065896/937369046771437598/IMG-20220130-WA00011.jpg"
 </div></br>
 
 
