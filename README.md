@@ -6,21 +6,23 @@
 
 ### Tecnologias que uso e que estou estudando
 
-<div style="display: incline_block"></br>
+<div align="center" style="display: incline_block"></br>
  <img align="center" alt="dri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
  <img align="center" alt="dri-CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
  <img align="center" alt="dri-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
  <img align="center" alt="dri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
  <img align="center" alt="dri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
- <img align="center" alt="dri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" /> </br>
- </div></br>
+ <img align="center" alt="dri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" /> 
+ <img align="right" alt="Dri-pic" height="150" style="border-radius:50px;" 
+ src="https://media.discordapp.net/attachments/923619727971065896/937369046771437598/IMG-20220130-WA00011.jpg">
+ </div>
+ 
+ ##
  
 <div align="center">
   <a href="https://github.com/driica">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&langs_count=7&theme=dracula"/>
-   <img align="right" alt="dri-pic" height="150" style="border-radius:50px;" 
- src="https://media.discordapp.net/attachments/923619727971065896/937369046771437598/IMG-20220130-WA00011.jpg"> 
 </div>
 
 
