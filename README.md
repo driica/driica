@@ -13,8 +13,7 @@
  <img align="center" alt="dri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
  <img align="center" alt="dri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
  <img align="center" alt="dri-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" /> 
- <img align="right" alt="Dri-pic" height="150" style="border-radius:50px;" 
- src="https://media.discordapp.net/attachments/923619727971065896/937369046771437598/IMG-20220130-WA00011.jpg">
+ <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
  </div>
  
  ##
