@@ -1,6 +1,6 @@
 ### Oiii, me chamo Adriana Beatriz 💻
 
-🎓 Sou estudante de Engenharia de Software.
+
 
 ##
 
