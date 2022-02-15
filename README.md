@@ -1,9 +1,6 @@
 ### Oiii, me chamo Adriana Beatriz 💻
 
 
-
-##
-
 ### Tecnologias que uso e que estou estudando
 
 <div align="center" style="display: incline_block"></br>
@@ -17,8 +14,6 @@
  ##
  <a height="160em" href="mailto:adrianbeatriz00@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
  </div>
- 
- ##
  
 <div align="center">
   <a href="https://github.com/driica">
