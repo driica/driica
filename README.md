@@ -21,10 +21,11 @@
   <a href="https://github.com/driica">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&langs_count=7&theme=dracula"/>
+   <a height="160em" href="mailto:adrianabeatriz00@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
- <div align="center">
+ 
  <a height="160em" href="mailto:adrianabeatriz00@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
- </div>
+ 
 
   ![Snake animation](https://github.com/driica/driica/blob/output/github-contribution-grid-snake.svg)
 
