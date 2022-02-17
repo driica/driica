@@ -2,7 +2,7 @@
 
 My name is Adriana Beatriz, I'm Brazilian. Systems Analysis and Development course and I'm focusing on studies for a career in the Front-End.
 
-### Tecnologias que uso e que estou estudando
+### Technologies that I use and that I am studying
 
 <div align="center" style="display: incline_block"></br>
  <img align="center" alt="dri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
