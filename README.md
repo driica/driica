@@ -10,6 +10,7 @@ I'm Brazilian. Systems Analysis and Development course and I'm focusing on studi
  <img align="center" alt="dri-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
  <img align="center" alt="dri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
  <img align="center" alt="dri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
+ <img align="center" alt="dri-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" />
  
  
  ##
