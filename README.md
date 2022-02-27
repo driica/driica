@@ -15,6 +15,7 @@ I'm Brazilian. Systems Analysis and Development course and I'm focusing on studi
  
  ##
  <a height="160em" href="mailto:adrianbeatriz00@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/adriana-beatriz-444682229"><img align="center"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  </div>
  
 <div align="center">
