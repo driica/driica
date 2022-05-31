@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I'm Adriana Beatriz 🌹</h1>
-<img width="3000" height="200"  src="rosa.png" alt="backgroung">
+<img width="3000" height="200"  src="rose.jpg" alt="backgroung">
 
 <h4 align="center">Learning 👾</h4>
 
