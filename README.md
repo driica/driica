@@ -1,8 +1,8 @@
-###  Hi, I'm Adriana Beatriz  
+<h1 align="center">Hello, I'm Adriana Beatriz 🌹</h1>
+<img width="100%" src="rosa.png" alt="backgroung">
 
-I'm Brazilian. Systems Analysis and Development course and I'm focusing on studies for a career in the Fullstack.
 
-### Technologies that I use and that I am studying
+### Learning 👾
 
 <div align="center" style="display: incline_block"></br>
  <img align="center" alt="dri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
