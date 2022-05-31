@@ -5,11 +5,12 @@
 <h4 align="center">Learning 👾</h4>
 
 <div align="center" style="display: incline_block"></br>
- <img alt="dri-HTML" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
- <img  alt="dri-CSS3" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
- <img  alt="dri-JS" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
- <img  alt="dri-Java" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
- <img  alt="dri-C" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" />
+ <img alt="dri-HTML" height="50px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+ <img  alt="dri-CSS3" height="50px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+ <img  alt="dri-JS" height="50px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+ <img  alt="dri-Angular" height="50px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" />
+ <img  alt="dri-Java" height="50px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
+ <img  alt="dri-C" height="50px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" />
  
  ##
  
