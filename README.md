@@ -1,6 +1,6 @@
 ### Oie! Me Adriana Beatriz! ✨
 <hr><img align="right" width="150" src="https://media1.giphy.com/media/hENDkVRxKsctCpuAun/giphy.gif?cid=ecf05e478ydp8sb5zocrrnpyqh458v78u0nchhqd9pmth28p&rid=giphy.gif&ct=g/giphy.gif"/>
-<div style="display: inline_block"><br>
+<div><br>
 📚 - Estudante de Análise e Desenvolvimento de Sistemas <br>
 </div>
 
