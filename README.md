@@ -1,22 +1,18 @@
-
-<h1 align="center">Hello, I'm Adriana Beatriz 🌹</h1>
-<img width="3000" height="200"  src="rose.jpg" alt="backgroung">
-
-<h4 align="center">Learning 👾</h4>
-
-<div align="center" style="display: incline_block"></br>
- <img  alt="dri-JS" height="50px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
- <img  alt="dri-Java" height="50px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" />
- <img  alt="dri-C" height="50px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" />
- 
- ##
- 
-<div align="center">
-  <a href="https://github.com/driica">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&langs_count=7&theme=dracula"/>
+### Oie! Me Adriana Beatriz! ✨
+<hr><img align="right" width="150" src="https://media1.giphy.com/media/hENDkVRxKsctCpuAun/giphy.gif?cid=ecf05e478ydp8sb5zocrrnpyqh458v78u0nchhqd9pmth28p&rid=giphy.gif&ct=g/giphy.gif"/>
+<div style="display: inline_block"><br>
+📚 - Estudante de Análise e Desenvolvimento de Sistemas <br>
 </div>
- 
+
+<div style="display: inline_block"><br>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+<hr>
+<div>
+ <a href="https://github.com/driica">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
   ![Snake animation](https://github.com/driica/driica/blob/output/github-contribution-grid-snake.svg)
 
