@@ -1,7 +1,7 @@
 ### Oii! Me chamo Adriana Beatriz! ✨
 <hr><img align="right" width="130" src="https://media1.giphy.com/media/hENDkVRxKsctCpuAun/giphy.gif?cid=ecf05e478ydp8sb5zocrrnpyqh458v78u0nchhqd9pmth28p&rid=giphy.gif&ct=g/giphy.gif"/>
 <div><br>
-📚 - Estudante de Análise e Desenvolvimento de Sistemas na Unicesumar <br> 
+📚 - Estudante de Análise e Desenvolvimento de Sistemas<br> 
 </div>
 <div style="display: inline_block"><br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
