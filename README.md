@@ -4,7 +4,7 @@
 📚 - Estudante de Análise e Desenvolvimento de Sistemas<br> 
 </div>
 <div style="display: inline_block"><br>
-  <a href="www.linkedin.com/in/adrianabeatriz3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/adrianabeatriz3" "target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 <hr>
 <div>
