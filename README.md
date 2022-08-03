@@ -9,7 +9,7 @@
 <hr>
 <div>
  <a href="https://github.com/driica">
- <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&langs_count=7&theme=radical"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 
   ![Snake animation](https://github.com/driica/driica/blob/output/github-contribution-grid-snake.svg)
