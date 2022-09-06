@@ -8,7 +8,7 @@
 <div>
  <a href="https://github.com/driica">
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+</div><br>
 
 <p>Studying 🌱</p>
 <div style="display: inline_block"><br>
