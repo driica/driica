@@ -5,12 +5,9 @@
 <br />
   
 <div align="center"> 
-  <a href="https://github.com/isabdch">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&langs_count=7&theme=jolly"/>
+  <a href="https://github.com/driica">
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&langs_count=7&theme=jolly"/>
 </div>
-   
-<br />
  
 <div align="center"> 
   <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Studying</h1>
