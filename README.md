@@ -19,8 +19,6 @@
   </div>
 </div>
   
-<br />
-  
 <div align="center">
 <h1><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Contact me</h1>
 <div>
