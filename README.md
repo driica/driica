@@ -1,32 +1,26 @@
-<div align="center">
-   <h1><img src="https://media.giphy.com/media/3Ii2SW00oLZ8k/giphy.gif" height="30px"> About me</h1>
-   Hi! I'm Adriana, I'm 19 years old, I'm studying systems analysis and development.
-</div>
-<br />
-  
-<div align="center"> 
+
+## Oii, Eu sou a Adriana.
+
+  <div>
   <a href="https://github.com/driica">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&langs_count=7&theme=jolly"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&theme=jolly"/>
 </div>
- 
-<div align="center"> 
-  <h1><img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" height="30px"> Studying</h1>
-  <div style="display: inline_block"><br>
-    <img align="center" alt="dri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="dri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dri-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="dri-csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  </div>
 </div>
+
+##
   
-<div align="center">
-<h1><img src="https://media.giphy.com/media/l0IyjS5FXeMOtVMyY/giphy.gif" height="30px"> Contact me</h1>
-<div>
-  <a href="https://www.linkedin.com/in/adrianabeatriz3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:adrianabeatriiz900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>  
+<div> 
+ <a href="https://www.linkedin.com/in/adrianabeatriz3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="mailto:adrianabeatriiz900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </div>
-  
- ### 
+<br>
+
 
 ![Snake animation](https://github.com/driica/driica/blob/output/github-contribution-grid-snake.svg)
   
