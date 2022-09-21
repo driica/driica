@@ -1,24 +1,23 @@
 
 ## Oii, Eu sou a Adriana.
-
-  <div>
-  <a href="https://github.com/driica">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&theme=jolly"/>
-</div>
-  
+<p display='incline-box'>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F73D93&icon_color=c2f0ff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F73D93&icon_color=F73D93">
+  </p>
+  <p>
 <div style="display: inline_block"><br>
   <img align="center" alt="dri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="dri-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
  <img align="center" alt="dri-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-
-##
-  
-<div> 
- <a href="https://www.linkedin.com/in/adrianabeatriz3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-  <a href="mailto:adrianabeatriiz900@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</div>
+</div>&nbsp;&nbsp;
+</p>
+ 
+  <a href = "mailto:adrianabeatriiz900@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=F73D93" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/adrianabeatriz3/" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F73D93" />
+  </a>
 <br>
 
 
