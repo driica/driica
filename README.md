@@ -4,13 +4,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F73D93&icon_color=c2f0ff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F73D93&icon_color=F73D93">
   </p>
-  <p>
-<div style="display: inline_block"><br>
-  <img align="center" alt="dri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="dri-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- <img align="center" alt="dri-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-</div>&nbsp;&nbsp;
-</p>
+  
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,firebase,git)](https://skillicons.dev)
+
  
   <a href = "mailto:adrianabeatriiz900@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=F73D93" target="_blank">
