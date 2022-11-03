@@ -1,5 +1,5 @@
 
-## 🌼Oii, Eu sou a Adriana <img src="https://img.shields.io/github/stars/driica?label=stars&style=social">
+## 🌼Oii, Eu sou Adriana <img src="https://img.shields.io/github/stars/driica?label=stars&style=social">
 
 <p display='incline-box'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F73D93&icon_color=c2f0ff">
