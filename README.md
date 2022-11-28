@@ -6,7 +6,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F73D93&icon_color=F73D93">
   </p>
   
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,firebase,git)](https://skillicons.dev)
+  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,firebase,git)](https://skillicons.dev)
 
  
   <a href = "mailto:adrianabeatriiz900@gmail.com">
