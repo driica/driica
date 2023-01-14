@@ -1,28 +1,37 @@
 
-## 🌼Oii, Eu sou Adriana <img src="https://img.shields.io/github/stars/driica?label=stars&style=social">
+## Hey, it's Adriana Beatriz 👩🏻‍💻 <img src="https://img.shields.io/github/stars/driica?label=stars&style=social">
 
-<p display='incline-box'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F73D93&icon_color=c2f0ff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F73D93&icon_color=F73D93">
-  </p>
-  
-  [![Minhas Habilidades](https://skillicons.dev/icons?i=html,css,js,react,styledcomponents,firebase,git)](https://skillicons.dev)
-
- 
-  <a href = "mailto:adrianabeatriiz900@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=F73D93" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/adrianabeatriz3/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-0D1117?style=for-the-badge&logo=linkedin&logoColor=F73D93" />
-  </a>
-<br>
-
-
-![Snake animation](https://github.com/driica/driica/blob/output/github-contribution-grid-snake.svg)
-  
 <div align="center">
-<!--    ## <img src="https://media.giphy.com/media/YjHOvLaZ02jI8C3yvH/giphy.gif" height="30px"> While coding I'm listening to:
-   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=driica&cover_image=true&theme=novatorem&bar_color=8a2be2&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=driica&redirect=true) -->
 
-  ![](https://komarev.com/ghpvc/?username=driica&color=blueviolet&style=flat-square)
-   </div>
+<h3 align=left> Welcome to my github repository! </h3>
+ <ul align="left">
+  <li> 🏙 I'm from Pernambuco, Brazil </li>
+  <li> 💜 Passionate about front-end development </li>
+  <li> 🙃 I study English and Spanish </li>
+  <li> 🏖 In my free time I like to watch tv shows, watch movies, read book and spend time with my family  </li>
+ </ul>
+
+</div>
+
+## 🤩 Where to find me
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-adrianabeatriz3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianabeatriz3/)](https://www.linkedin.com/in/adrianabeatriz3/)
+[![Github Badge](https://img.shields.io/badge/-driica-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/driica)](https://github.com/driica)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:adrianabeatriiz900gmail.com)](mailto:adrianabeatriiz900gmail.com)
+
+## 🛠 💻 Technologies & Tools
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25">
+
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="25">
+
+<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" height="25">
+
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+
+<img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" height="25"/>
+
+</p>
