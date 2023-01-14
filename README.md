@@ -19,7 +19,7 @@
 [![Github Badge](https://img.shields.io/badge/-driica-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/driica)](https://github.com/driica)
 [![Gmail Badge](https://img.shields.io/badge/-gmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:adrianabeatriiz900gmail.com)](mailto:adrianabeatriiz900gmail.com)
 
-## 🛠 💻 Technologies & Tools
+## 💻 Technologies
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25">
