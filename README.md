@@ -6,7 +6,7 @@
 <h3 align=left> Welcome to my github repository! </h3>
  <ul align="left">
   <li> 🏙 I'm from Pernambuco, Brazil </li>
-  <li> 💜 Passionate about back-end development </li>
+  <li> 💜 Passionate about front-end development </li>
   <li> 🙃 I study English and Spanish </li>
   <li> 🏖 In my free time I like to watch tv shows, watch movies, read book and spend time with my family  </li>
  </ul>
