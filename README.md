@@ -1,6 +1,5 @@
 ## Oii, me chamo Adriana
 <p><em>❥ Desenvolvedora de Software</br>❥ Graduando em Sistemas de Informação pela <a target="_blank" href="http://ufrpe.br/">UFRPE</a>
-</br></br>📍 Atualmente Desenvolvedora de Sotfware na <a target="_blank" href="https://plugthink.com/">Plugthink</a></em></p>
 
 
 [![Linkedin: adrianabeatriz](https://img.shields.io/badge/-adrianabeatriz3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianabeatriz3/)](https://www.linkedin.com/in/adrianabeatriz3/)
