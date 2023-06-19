@@ -1,23 +1,19 @@
-## Oii, me chamo Adriana
-<p><em>❥ Desenvolvedora Front-end</br>❥ Graduanda em Sistemas de Informação pela <a target="_blank" href="http://ufrpe.br/">UFRPE</a>
 
+<h1>Hi There! 👋</h1>
 
-[![Linkedin: adrianabeatriz](https://img.shields.io/badge/-adrianabeatriz3-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianabeatriz3/)](https://www.linkedin.com/in/adrianabeatriz3/)
-[![Portfolio](https://img.shields.io/badge/-portfolio-ff69b4?style=flat-square&link=https://.vercel.app)](https:/.vercel.app/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-E966A0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianabeatriz3/)](https://www.linkedin.com/in/adrianabeatriz3/)
+[![Personal Badge](https://img.shields.io/badge/-Website-E966A0?style=flat-square&logo=Me&logoColor=white&link=)]()
+[![Gmail Badge](https://img.shields.io/badge/-adrianabeatriiz900@gmail.com-E966A0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianabeatriiz900@gmail.com)](mailto:adrianabeatriiz900@gmail.com)
 
-## Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/bootstrap-%8F43EE.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![python](https://img.shields.io/badge/python-%23404d59.svg?style=for-the-badge&logo=python&logoColor=%2361DAFB)
-![django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django&logoColor=white)
+<img align="right" alt="image" src="./codeGirl.jpg"  width="300px"/>
 
+## My name is Adriana Beatriz
+(React JS | Javascript | HTML | CSS | Python | Django ) 🚀
+- 👩‍💻 software development internship @[plugthink](https://plugthink.com/)
+- 🎓 information systems Student @[ufrpe](https://www.ufrpe.br/)
 
-##
-  <a href="https://github.com/driica">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=driica&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=driica&layout=compact&langs_count=7&theme=omni"/>
+<div align="left">
   
-</div>
-
+[![Kipper top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=driica&theme=blue-white)](https://github.com/anuraghazra/github-readme-stats)
+  
+ </div>
