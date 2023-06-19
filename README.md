@@ -5,7 +5,7 @@
 [![Personal Badge](https://img.shields.io/badge/-Website-E966A0?style=flat-square&logo=Me&logoColor=white&link=)]()
 [![Gmail Badge](https://img.shields.io/badge/-adrianabeatriiz900@gmail.com-E966A0?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrianabeatriiz900@gmail.com)](mailto:adrianabeatriiz900@gmail.com)
 
-<img align="right" alt="image" src="./girlCode.jpg"  width="300px"/>
+<img align="right" alt="image" src="./girl.jpg"  width="300px"/>
 
 ## My name is Adriana Beatriz
 (React JS | Javascript | HTML | CSS | Python | Django ) 🚀
