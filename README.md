@@ -9,8 +9,8 @@
 
 ## My name is Adriana Beatriz
 (React JS | Javascript | HTML | CSS | Python | Django ) 🚀
-- 👩‍💻 software development internship @[plugthink](https://plugthink.com/)
-- 🎓 information systems Student @[ufrpe](https://www.ufrpe.br/)
+- 👩‍💻 software development internship @ [plugthink](https://plugthink.com/)
+- 🎓 information systems Student @ [ufrpe](https://www.ufrpe.br/)
 
 <div align="left">
   
