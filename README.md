@@ -8,7 +8,7 @@
 <img align="right" alt="image" src="./girl.jpg"  width="300px"/>
 
 ## My name is Adriana Beatriz
-(React JS | Javascript | HTML | CSS | Python | Django ) 🚀
+(React JS | Javascript | HTML | CSS | UX/UI) 🚀
 - 👩‍💻 software development internship @ [plugthink](https://plugthink.com/)
 - 🎓 information systems Student @ [ufrpe](https://www.ufrpe.br/)
 
